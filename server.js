@@ -5,6 +5,7 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
+// nurcagli Branch'ine aittir
 rp(url)
   .then(function(html){
     //success!
